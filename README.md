@@ -103,7 +103,7 @@ Encrypted Scores → Homomorphic Addition → Encrypted Total → Decryption →
 
 Watch our comprehensive demonstration showcasing the complete workflow from submission to award announcement:
 
-**[View Demo Video]**
+
 
 The video demonstrates:
 - Author submitting an encrypted literary work
@@ -114,7 +114,7 @@ The video demonstrates:
 
 ## 📸 On-Chain Transaction Screenshots
 
-
+LiteratureReviewSystem.png
 
 ## 🏆 Use Cases
 
